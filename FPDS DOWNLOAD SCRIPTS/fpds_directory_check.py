@@ -2,7 +2,7 @@
 ###############################
 # Programmer: Andrew Banister
 # Date: July - August 2016
-# Purpose: Downloads all zip files from the Federal Procurement Data System for a particular fiscal year
+# Purpose: Checks to see if the Federal Procurement Data System for a particular fiscal year
 
 #import string and download libraries
 import zipfile, os, requests, sys, datetime, tkinter, re
